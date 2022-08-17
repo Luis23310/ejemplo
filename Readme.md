@@ -18,11 +18,14 @@ Al iniciar el código, se debe digitar la siguiente instrucción en la consola:
 python3 ejemplo.py [Vin] [R1] [R2]
 ```
 Nota : En Vi se reemplaza el valor en voltios del voltaje de entrada, R1 resistencia en Ohms y R2 (Resistencia a tierra) en Ohms.
+
 ```
 	$ python ejemplo.py 12 1000 500
 	Universidad de Ibagué
 	 Programa de Electrónica
-	El resultado del divisor de voltaje es:  4.0  voltios ```
+	El resultado del divisor de voltaje es:  4.0  voltios
+```
+
 
 
 ## Autor
